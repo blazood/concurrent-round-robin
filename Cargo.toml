@@ -12,4 +12,4 @@ repository = "https://github.com/blazood/concurrent-round-robin"
 
 [dependencies]
 dashmap = {version="5.1", features=["raw-api"]}
-chrono = "0.4"
+chrono = "0.4.19"
